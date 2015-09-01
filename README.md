@@ -4,12 +4,14 @@
 [![Code Climate](https://codeclimate.com/github/abstractive/nada.svg)](https://codeclimate.com/github/abstractive/nada)
 [![Coverage Status](https://coveralls.io/repos/abstractive/nada/badge.svg?branch=master)](https://coveralls.io/r/abstractive/nada)
 
-## Initial support:
+## Initial Support
 
 The following database platform drivers will be abstracted in the initial releases:
 
-- [ ] [RethinkDB](https://github.com/rethinkdb/rethinkdb/tree/next/drivers/ruby)
-- [ ] [MongoDB](https://github.com/mongodb/mongo-ruby-driver)
+- [ ] [full-featured] RethinkDB: Via [official](https://github.com/rethinkdb/rethinkdb/tree/next/drivers/ruby) driver.
+- [ ] [full-featured] MongoDB: Via [official](https://github.com/mongodb/mongo-ruby-driver) driver.
+- [ ] [limited] Memcached: Via [Dalli](https://github.com/mperham/dalli).
+- [ ] [limited] Redis: Via [celluloid-redis](https://github.com/celluloid/celluloid-redis).
 
 ## Contributing
 
