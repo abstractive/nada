@@ -1,0 +1,2 @@
+# nada
+NoSQL abstraction layer.
