@@ -15,8 +15,4 @@ The following database platform drivers will be abstracted in the initial releas
 
 ## License
 
-Distributed under the MIT License, by [emotive mediums limited](https://github.com/emotivemediums); produced by [abstractive labs](https://github.com/abstractive); created by [Donovan Keme](https://github.com/digitalextremist). See [LICENSE.txt](https://github.com/abstractive/nada/blob/master/LICENSE.txt) for further details.
-
----
-
-Copyright (c) 2015, emotive mediums limited.
+Distributed under the MIT License, by [emotive mediums limited](https://github.com/emotivemediums); produced by [abstractive labs](https://github.com/abstractive); created by [Donovan Keme](https://github.com/digitalextremist). See [LICENSE.txt](https://github.com/abstractive/nada/blob/master/LICENSE.txt) for further details. **Copyright (c) 2015, emotive mediums limited.**
