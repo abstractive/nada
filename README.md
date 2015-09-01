@@ -8,6 +8,8 @@
 
 The following database platform drivers will be abstracted in the initial releases, with either *full-featured* or *limited* functionality.
 
+* [Follow the building of the early API.](https://github.com/abstractive/nada/issues/1)
+
 **Full-Featured**
 - [ ] `RethinkDB` ...via the [official](https://github.com/rethinkdb/rethinkdb/tree/next/drivers/ruby) driver.
 - [ ] `MongoDB` ...via the [official](https://github.com/mongodb/mongo-ruby-driver) driver.
