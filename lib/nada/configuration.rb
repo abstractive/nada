@@ -1,0 +1,3 @@
+module Nada::Configuration
+
+end
