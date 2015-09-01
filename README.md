@@ -1,4 +1,4 @@
-NoSQL abstraction layer for Ruby, with 'evented' I/O provided by [Celluloid](http://celluloid.io).
+#### NoSQL abstraction layer for Ruby, with 'evented' I/O provided by [Celluloid](http://celluloid.io).
 
 ## Initial support:
 
@@ -15,13 +15,7 @@ The following database platform drivers will be abstracted in the initial releas
 
 ## License
 
-Distributed under the MIT License, by [emotive mediums limited](https://github.com/emotivemediums).
-
-Produced by [abstractive labs](https://github.com/abstractive).
-
-Created by [Donovan Keme](https://github.com/digitalextremist).
-
-See [LICENSE.txt](https://github.com/abstractive/nada/blob/master/LICENSE.txt) for further details.
+Distributed under the MIT License, by [emotive mediums limited](https://github.com/emotivemediums); produced by [abstractive labs](https://github.com/abstractive); created by [Donovan Keme](https://github.com/digitalextremist). See [LICENSE.txt](https://github.com/abstractive/nada/blob/master/LICENSE.txt) for further details.
 
 ---
 
