@@ -6,15 +6,15 @@
 
 # Initial Support
 
-The following database platform drivers will be abstracted in the initial releases:
+The following database platform drivers will be abstracted in the initial releases, with either *full-featured* or *limited* functionality.
 
-**Full Featured**
-- [ ] `RethinkDB`: Via the [official](https://github.com/rethinkdb/rethinkdb/tree/next/drivers/ruby) driver.
-- [ ] `MongoDB`: Via the [official](https://github.com/mongodb/mongo-ruby-driver) driver.
+**Full-Featured**
+- [ ] `RethinkDB` ...via the [official](https://github.com/rethinkdb/rethinkdb/tree/next/drivers/ruby) driver.
+- [ ] `MongoDB` ...via the [official](https://github.com/mongodb/mongo-ruby-driver) driver.
 
 **Limited Functionality**
-- [ ] `Memcached`: Via [Dalli](https://github.com/mperham/dalli).
-- [ ] `Redis`: Via [celluloid-redis](https://github.com/celluloid/celluloid-redis).
+- [ ] `Memcached` ...via [Dalli](https://github.com/mperham/dalli).
+- [ ] `Redis` ...via [celluloid-redis](https://github.com/celluloid/celluloid-redis).
 
 ## Contributing
 
