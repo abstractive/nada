@@ -21,7 +21,7 @@ Produced by [abstractive labs](https://github.com/abstractive).
 
 Created by [Donovan Keme](https://github.com/digitalextremist).
 
-See [LICENSE.txt](https://github.com/digitalextremist/omnirepo/blob/master/LICENSE.txt) for further details.
+See [LICENSE.txt](https://github.com/abstractive/nada/blob/master/LICENSE.txt) for further details.
 
 ---
 
