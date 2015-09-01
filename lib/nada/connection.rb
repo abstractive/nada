@@ -1,0 +1,3 @@
+module Nada::Connection
+
+end
