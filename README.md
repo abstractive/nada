@@ -1,5 +1,4 @@
 #### NoSQL abstraction layer for Ruby, with 'evented' I/O provided by [Celluloid](http://celluloid.io).
-=========
 [![Gem Version](https://badge.fury.io/rb/nada.svg)](http://rubygems.org/gems/nada)
 [![Build Status](https://secure.travis-ci.org/abstractive/nada.svg?branch=master)](http://travis-ci.org/abstractive/nada)
 [![Code Climate](https://codeclimate.com/github/abstractive/nada.svg)](https://codeclimate.com/github/abstractive/nada)
