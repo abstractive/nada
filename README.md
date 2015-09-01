@@ -8,8 +8,8 @@
 
 The following database platform drivers will be abstracted in the initial releases:
 
-* [RethinkDB](https://github.com/rethinkdb/rethinkdb/tree/next/drivers/ruby)
-* [MongoDB](https://github.com/mongodb/mongo-ruby-driver)
+- [ ] [RethinkDB](https://github.com/rethinkdb/rethinkdb/tree/next/drivers/ruby)
+- [ ] [MongoDB](https://github.com/mongodb/mongo-ruby-driver)
 
 ## Contributing
 
