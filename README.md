@@ -13,6 +13,7 @@ The following database platform drivers will be abstracted in the initial releas
 **Full-Featured**
 - [ ] `RethinkDB` ...via the [official](https://github.com/rethinkdb/rethinkdb/tree/next/drivers/ruby) driver.
 - [ ] `MongoDB` ...via the [official](https://github.com/mongodb/mongo-ruby-driver) driver.
+- [ ] `CouchDB` ...via [relaxo](https://github.com/ioquatix/relaxo).
 
 **Limited Functionality**
 - [ ] `Memcached` ...via [Dalli](https://github.com/mperham/dalli).
@@ -25,7 +26,7 @@ The following database platform drivers will be abstracted in the initial releas
 
 ## License
 
-Distributed under the MIT License, by [emotive mediums limited](https://github.com/emotivemediums); produced by [Donovan Keme](https://github.com/digitalextremist), for [abstractive labs](https://github.com/abstractive); a series of `emotive mediums limited`. See [LICENSE.txt](https://github.com/abstractive/nada/blob/master/LICENSE.txt) for further details.
+Distributed under the MIT License, by [`emotive mediums limited`](https://github.com/emotivemediums); produced by [Donovan Keme](https://github.com/digitalextremist), at the [`abstractive labs`](https://github.com/abstractive) series of `emotive mediums limited`. See [LICENSE.txt](https://github.com/abstractive/nada/blob/master/LICENSE.txt) for further details.
 
 ---
 
